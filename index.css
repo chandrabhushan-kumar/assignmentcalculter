@@ -1,0 +1,55 @@
+body{
+    height: 1000px;
+    width: 80%;
+    margin: auto;
+    background-color: azure;
+}
+
+h1 {
+	text-align: center;
+	
+	color: #000;
+	}
+
+#clear{
+width: 270px;
+border: 3px solid gray;
+border-radius: 3px;
+padding: 20px;
+background-color: red;
+}
+
+.formstyle
+{
+width: 50%;
+height: min-content;
+margin: auto;
+border: 3px solid skyblue;
+border-radius: 5px;
+padding: 20px;
+}
+
+
+
+input
+{
+background-color: green;
+color: white;
+border: 3px solid gray;
+border-radius: 5px;
+padding: 26px;
+margin: 5px;
+font-size: 15px;
+}
+
+
+#calc{
+width: 50%;
+border: 5px solid black;
+border-radius: 3px;
+padding: 20px;
+margin-left: 21%;
+}
+.button1{
+    margin-left: 21%;
+}
